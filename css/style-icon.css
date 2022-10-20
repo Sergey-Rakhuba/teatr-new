@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'iconbrand';
+  src: url('../founts/iconbrand.eot?54lj7t');
+  src: url('../founts/iconbrand.eot?54lj7t#iefix') format('embedded-opentype'),
+    url('../founts/iconbrand.ttf?54lj7t') format('truetype'),
+    url('../founts/iconbrand.woff?54lj7t') format('woff'),
+    url('../founts/iconbrand.svg?54lj7t#iconbrand') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"]::before, [class*=" icon-"]::before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iconbrand' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fb:before {
+  content: "\e900";
+}
+
+.icon-menu-left:before {
+  content: "\e901";
+}
+
+.icon-inst:before {
+  content: "\e902";
+}
+
+.icon-vk:before {
+  content: "\e903";
+}
+
+.icon-youtube:before {
+  content: "\e904";
+}

@@ -1,0 +1,776 @@
+@media screen and (max-width : 1320px) {
+    .info-panel {
+        max-width: 100px;
+        margin: 0 auto;
+        margin-left: 0px;
+
+    }
+
+    .info-panel__block3 {
+        margin: auto;
+        margin-top: 85px;
+    }
+
+
+
+    .box-container {
+        width: 1050px;
+
+    }
+
+    .from-teatr__title2 {
+
+        margin-left: -210px;
+    }
+
+    .about-numbers {
+        margin-left: -30px;
+    }
+
+    /* flex-элемент №1 */
+    .block__element_1 {
+        flex: 0 1 25%;
+        order: 1;
+    }
+
+    /* flex-элемент №2 */
+    .block__element_2 {
+        margin-top: -50px;
+        flex: 0 1 25%;
+        order: 4;
+    }
+
+    /* flex-элемент №3 */
+    .block__element_3, .block__element_5 {
+        flex: 0 1 42%;
+
+    }
+
+
+    .block__element_6 {
+        flex: 1 1 30%;
+
+    }
+
+    .from-teatr__plast, .from-teatr__yar {
+
+        margin-left: -380px;
+
+    }
+
+    .carucel2 {
+
+
+        margin-left: 0px;
+        margin-right: 0px;
+
+
+    }
+
+    .card-mail {
+        margin-left: -20px;
+    }
+
+    .patronize__block5 {
+        margin-left: -40px;
+        width: 120px;
+    }
+
+    .block__element_2, .block__content-mailbtn {
+        margin-left: -10px;
+    }
+
+
+
+    .footer-mail-buttom {
+        margin-left: 870px;
+        margin-top: -90px;
+    }
+
+    .container-footer {
+        max-width: 1020px;
+
+    }
+
+    .mySw {
+        opacity: 1;
+    }
+
+}
+
+/**/
+@media screen and (max-width : 1230px) {
+    .phone {
+
+        margin-left: 20px;
+
+    }
+
+    .info-panel {
+        width: 90px;
+    }
+
+    .heder__ContantText {
+        width: 100%;
+        max-width: 850px;
+
+    }
+
+
+    /* flex-элемент №1 */
+    .block__element_1 {
+        flex: 0 1 50%;
+        order: 5;
+    }
+
+    /* flex-элемент №2 */
+    .block__element_2 {
+        margin-top: 0px;
+        margin-left: 0px;
+        flex: 0 1 50%;
+        order: 6;
+        align-items: end;
+    }
+
+    /* flex-элемент №3 */
+    .block__element_3 {
+        flex: 0 1 57%;
+        order: 1;
+        margin-left: -23px;
+    }
+
+    /* flex-элемент №4 */
+    .block__element_4 {
+        width: 385px;
+        flex: 0 1 51%;
+        order: 3;
+        margin-bottom: 30px;
+    }
+
+    /* flex-элемент №5 */
+    .block__element_5 {
+        flex: 0 1 25%;
+        margin-right: 0px;
+        order: 4;
+    }
+
+    /* flex-элемент №6 */
+    .block__element_6 {
+        flex: 0 1 40%;
+        order: 2;
+    }
+
+
+
+    .footer-mail-buttom {
+
+        margin-left: 215px;
+
+    }
+
+    .patronize__block4 {
+        margin-left: 0px;
+    }
+
+    .Mail-teatr {
+        margin-left: 230px;
+    }
+
+    .adres {
+        margin-left: 30px;
+    }
+
+    .container-footer, .oll {
+        max-width: 890px;
+
+    }
+
+    .mySw {
+        opacity: 1;
+    }
+
+    .column2, .from-teatr__img {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width : 992px) {
+
+
+    .info-panel {
+        max-width: 60px;
+        margin: 0 auto;
+        margin-left: 0px;
+
+    }
+
+    .info-panel__block2 {
+        margin-left: -8px;
+    }
+
+    .info-panel__block3 {
+        margin-left: -15px;
+    }
+
+    .heder-img {
+        background-size: 160% 1045px;
+    }
+
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .phone {
+        margin: 50px 0 0 -450px;
+    }
+
+    .heder__ContantText {
+        width: 100%;
+        max-width: 700px;
+
+    }
+
+    .column2, .from-teatr__img {
+        display: none;
+
+    }
+
+    .heder {
+        margin-top: 20px;
+    }
+
+
+    .from-teatr__title {
+        margin-left: 0px;
+    }
+
+    .from-teatr__plast {
+        margin-top: 120px;
+        padding-left: 30px;
+    }
+
+    .box-container {
+        width: 750px;
+        margin-left: 10px;
+    }
+
+    .carucel2 {
+        margin-left: 0px;
+
+    }
+
+
+
+    .about-numbers {
+        margin-left: -200px;
+        margin-top: -30px;
+    }
+
+    .star-box {
+        width: 140%;
+        margin-left: -150px;
+        margin-top: -100px;
+    }
+
+    .the-best-theater {
+        margin-top: 180px;
+
+    }
+
+    .the-best-theater-yar {
+        margin-left: 90px;
+
+
+    }
+
+
+    .the-best-theater-text {
+        width: 350px;
+        margin-left: 400px;
+        padding-top: 20px;
+        font-size: 25px;
+    }
+
+    .star-oll {
+        margin-left: 400px;
+
+    }
+
+    .from-teatr__title2 {
+
+        margin-left: -440px;
+    }
+
+    .box {
+        display: flex;
+        margin-left: -670px;
+        margin-top: -70px;
+    }
+
+    .from-teatr__plast {
+        justify-content: flex-start;
+        margin-left: -80px;
+    }
+
+    .from-teatr__yar {
+
+        margin-left: -50px;
+        margin-top: 0px;
+    }
+
+    .block {
+        margin-top: -79px;
+    }
+
+
+    /* flex-элемент №1 */
+    .block__element_1 {
+        flex: 0 1 50%;
+        order: 5;
+    }
+
+    /* flex-элемент №2 */
+    .block__element_2 {
+        margin-top: 0px;
+        margin-right: 0px;
+        flex: 0 1 50%;
+        order: 6;
+        align-items: end;
+    }
+
+    /* flex-элемент №3 */
+    .block__element_3 {
+        flex: 0 1 57%;
+        order: 1;
+        margin-left: -23px;
+    }
+
+    /* flex-элемент №4 */
+    .block__element_4 {
+        width: 385px;
+        flex: 0 1 51%;
+        order: 3;
+        margin-bottom: 30px;
+    }
+
+    /* flex-элемент №5 */
+    .block__element_5 {
+        flex: 0 1 25%;
+        margin-left: 35px;
+        order: 4;
+    }
+
+    /* flex-элемент №6 */
+    .block__element_6 {
+        flex: 0 1 40%;
+        order: 2;
+        margin-left: 10px;
+    }
+
+
+
+    .footer-mail-buttom {
+
+        margin-left: 130px;
+
+    }
+
+    .patronize__block4 {
+        margin-left: 0px;
+    }
+
+    .Mail-teatr {
+        margin-left: 190px;
+    }
+
+    .adres {
+        margin-left: -10px;
+    }
+
+    .card-mail-inp {
+        width: 270px;
+        height: 100px;
+
+    }
+
+    .container-footer {
+
+        max-width: 690px;
+
+    }
+
+    .swiper-slide {
+
+        width: 240px;
+        height: 350px;
+        opacity: 0.35;
+
+
+        line-height: 150px;
+        text-align: center;
+    }
+
+    .mySw {
+        opacity: 1;
+    }
+
+}
+
+@media screen and (min-width : 769px) {
+
+
+    .icon-768 {
+        display: none;
+
+    }
+
+    .the-best-theater-yar {
+        margin-left: 99px;
+        margin-top: -426px;
+    }
+
+
+}
+
+@media screen and (max-width : 768px) {
+    .navbar-open-menu {
+        opacity: 0;
+    }
+
+    .menu-burger {
+        opacity: 1;
+        margin: -30px 0 0 0px;
+    }
+
+    .nav-link.menu:hover {
+        color: #989898;
+        opacity: 0.75;
+    }
+
+
+    .offcanvas-header {
+        background-color: #444444;
+    }
+
+    .btn-primary1 {
+        color: #fff;
+        margin-left: 50px;
+        margin-top: 50px;
+        z-index: 10;
+
+    }
+
+    .nav-link {
+        margin-left: 50px;
+        zoom: 120%;
+        opacity: 0.85;
+
+    }
+
+    .nav-link:hover {
+        opacity: 1;
+    }
+
+    .footer {
+        max-width: 690px;
+    }
+
+    .heder__ContantTitle {
+        font-size: 42px;
+    }
+
+    .heder__ContantText {
+        width: 100%;
+        max-width: 500px;
+
+    }
+
+    .bi-filter-left {
+        width: 35px;
+        height: 35px;
+    }
+
+    .from-teatr__best-teatr {
+        margin-left: 50px;
+        width: 380px;
+    }
+
+    .TitleText, .TitleSpan {
+        font-size: 48px;
+    }
+
+    .heder-img {
+
+        background-size: 250% 800px;
+
+    }
+
+    .oll {
+        width: 700px;
+    }
+
+    .heder {
+        margin-top: -100px;
+        height: 800px;
+    }
+
+    .column1 {
+        display: flex;
+        max-width: 600px;
+        width: 100%;
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+
+
+
+    .info-panel {
+        display: none;
+
+    }
+
+    .cont-menu {
+        width: 300px;
+        margin-top: -10px;
+        /*height: 50px;*/
+        opacity: 1;
+        background-color: none;
+
+    }
+
+    .menu__telephone {
+        display: none;
+    }
+
+    .menu {
+        margin-top: 20px;
+
+    }
+
+    .cont-menu {
+        padding: 10px;
+        background-color: #333333;
+
+    }
+
+    /**/
+    .nav-item1 {
+        padding-top: 50px;
+    }
+
+    .icon-inst, .icon-vk, .menu-icon {
+        padding: 50px 50px;
+    }
+
+    .the-best-theater {}
+
+    .the-best-theater-yar {}
+
+
+    .the-best-theater-text {}
+
+    .star-box {
+        margin-left: -20px;
+        margin-top: -170px;
+    }
+
+    .box-star {
+        margin-top: -420px;
+    }
+
+    .swiper {
+
+        zoom: 90%;
+    }
+
+    .card-mail-inp {
+        width: 270px;
+        height: 100px;
+
+    }
+
+    .mySw {
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width : 576px) {
+
+    .heder {
+        height: 800px;
+    }
+
+    .heder__ContantTitle {
+        font-size: 36px;
+    }
+
+    .heder__ContantText {
+        width: 90%;
+    }
+
+    .Fromteatr {
+        margin-left: -50px;
+    }
+
+    .body__from-teatr-page {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+
+    .from-teatr__best-teatr, .coin {
+        width: 100%;
+        max-width: 700px;
+        margin: 0 auto;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .from-teatr__title2 {
+
+        margin: 0 auto;
+
+        margin-left: -80px;
+    }
+
+    .from-teatr__text {
+        margin: 0 auto;
+        max-width: 550px;
+
+        margin-bottom: 20px;
+    }
+
+    .TitleText {
+        height: 60px;
+    }
+
+    .coin, .box {
+
+        width: 576px;
+
+
+    }
+
+    .box {
+
+        margin-top: -140px;
+        justify-content: center;
+    }
+
+    .from-teatr__title {
+
+        margin: 0 auto;
+    }
+
+    .the-best-theater-yar {
+        margin-left: 0px;
+    }
+
+    .about-numbers {
+
+        width: 550px;
+        padding-left: 200px;
+
+
+
+    }
+
+    .from-teatr__plast {
+        margin-left: -110px;
+        margin-top: 160px;
+    }
+
+    .from-teatr__yar {
+        margin: 0;
+        margin-left: 90px;
+        margin-top: -110px;
+
+    }
+
+    .star-box {
+        margin-top: -150px;
+    }
+
+    .star-oll, .the-best-theater-text {
+        margin-left: 320px;
+    }
+
+    .block {
+        margin-top: 50px;
+        margin-left: 60px;
+    }
+
+    .to-patronize__input {
+        width: 265px;
+    }
+
+    .block__element_6 {
+        margin-left: 0px;
+    }
+
+    .card-mail-inp {
+        width: 550px;
+    }
+
+    .block__element_3 {
+        width: 570px;
+    }
+
+    .block__content {
+        display: flex;
+        width: 580px;
+        flex-wrap: wrap;
+    }
+
+    .block__content-tel {
+
+        width: 150px;
+
+    }
+
+    .block__content-mail {
+
+        width: 180px;
+
+    }
+
+    .block__element_1, .block__element_2 {
+        zoom: 90%;
+        margin-left: -30px;
+    }
+
+    .block__element_2 {
+        width: 380px;
+        margin-left: -30px;
+    }
+
+    .patronize__block4, .patronize__block5 {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .patronize__block5 {
+        margin: 0px 30px auto;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .adres {
+        margin-left: -10px;
+        width: 380px;
+        white-space: nowrap
+    }
+
+    .footer {
+        padding-bottom: 30px;
+        margin: 0px 40px auto;
+        width: 600px;
+    }
+
+    .mySw {
+        opacity: 1;
+    }
+}
